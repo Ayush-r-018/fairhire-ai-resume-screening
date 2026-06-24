@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+.env
+
+.vscode/
+
+sentence_transformers_cache/
+
+models/
